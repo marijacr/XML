@@ -1,6 +1,6 @@
 /* Osnovne postavke */
 body {
-    font-family: "Poppins";
+    font-family: "Ariel";
     background-color: #fffdf0; /* usklađeno s tvojim stilom */
     color: #333;
 }
@@ -14,6 +14,14 @@ body {
 .navbar .navbar-brand {
     color: white;
     font-weight: bold;
+}
+
+.navbar-nav{
+    padding-right: 7rem;
+}
+
+.nav-link{
+    font-family: "Poppins";
 }
 
 .navbar-nav {
@@ -74,18 +82,18 @@ body {
 
 /* Footer */
 footer {
-    margin-top: 40px;
     background-color: #f9a825;
-    padding: 20px 0;
-    color: white;
-    text-align: center;
-    font-weight: bold;
-    border-top: 4px solid #fbc02d;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px 0;
+  border-top: 4px solid #fbc02d;
+  width: 100%;
 }
 
 .navbar-brand i {
   vertical-align: middle;
-  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .navbar-brand span {
@@ -94,9 +102,6 @@ footer {
   font-size: 1.25rem;
 }
 
-.fa-spa{
-    padding-left: 6%;
-}
 
 html, body {
   height: 100%;
@@ -106,14 +111,4 @@ html, body {
   flex-direction: column;
 }
 
-footer {
-  background-color: #f9a825;
-  color: white;
-  text-align: center;
-  font-weight: bold;
-  padding: 20px 0;
-  border-top: 4px solid #fbc02d;
-  width: 100%;
-  /* footer će ostati na dnu i imati punu širinu */
-}
 
