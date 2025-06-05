@@ -1,0 +1,119 @@
+/* Osnovne postavke */
+body {
+    font-family: "Poppins";
+    background-color: #fffdf0; /* usklađeno s tvojim stilom */
+    color: #333;
+}
+
+/* Navigacija */
+.navbar {
+    background-color: #f9a825;
+}
+
+.navbar .nav-link,
+.navbar .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin: 0 auto;      /* centralizira listu */
+    display: flex;
+    gap: 20px;           /* razmak između linkova */
+}
+
+.navbar .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar .nav-link:hover,
+.navbar .navbar-brand:hover {
+    color: #fffde7;
+}
+
+.logo {
+    height: 50px;
+}
+
+/* Tablica */
+.table {
+    background-color: #fffde7;
+    border: 2px solid #fbc02d;
+}
+
+.table th {
+    background-color: #fdd835;
+    color: #3e2723;
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Slika bolida ili košnice */
+.slika-bolid {
+    text-align: center;
+}
+
+.slika-bolid img {
+    width: 70%;
+    border-radius: 15px;
+    border: 4px solid #fbc02d;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.opis {
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    color: #6d4c41;
+}
+
+/* Footer */
+footer {
+    margin-top: 40px;
+    background-color: #f9a825;
+    padding: 20px 0;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-top: 4px solid #fbc02d;
+}
+
+.navbar-brand i {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.navbar-brand span {
+  font-family: "Poppins";
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.fa-spa{
+    padding-left: 6%;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  background-color: #f9a825;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 20px 0;
+  border-top: 4px solid #fbc02d;
+  width: 100%;
+  /* footer će ostati na dnu i imati punu širinu */
+}
+

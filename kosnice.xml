@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vozaci>
+    <pcelar id="1">
+        <ime>Ivan</ime>
+        <prezime>Novak</prezime>
+        <godiste>1975.</godiste>
+        <lokacija>Zagorje</lokacija>
+        <kosnica>LR košnica</kosnica>
+    </pcelar>
+    <pcelar id="2">
+        <ime>Ana</ime>
+        <prezime>Horvat</prezime>
+        <godiste>1983.</godiste>
+        <lokacija>Baranja</lokacija>
+        <kosnica>DB košnica</kosnica>
+    </pcelar>
+    <pcelar id="3">
+        <ime>Marko</ime>
+        <prezime>Kovač</prezime>
+        <godiste>1990.</godiste>
+        <lokacija>Lika</lokacija>
+        <kosnica>AŽ košnica</kosnica>
+    </pcelar>
+    <slike>
+        <slika>kosnica.jpg</slika>
+    </slike>
+</vozaci>

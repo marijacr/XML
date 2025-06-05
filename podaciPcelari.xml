@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vozaci>
+    <pcelar>
+        <slika>ivan.jpg</slika>
+        <ime>Ivan Novak</ime>
+        <opis>Ivan Novak je pčelar sa dugogodišnjim iskustvom i dubokim znanjem o ponašanju pčela. U svom radu kombinira tradicionalne metode i moderne pristupe pčelarenju. Njegove košnice smještene su u netaknutim planinskim predjelima, gdje pčele beru nektar iz šumskih cvjetova, što daje poseban aromatični karakter njegovom medu. Ivan je poznat i kao strastveni edukator koji održava radionice i predavanja o održivom pčelarenju, pomažući mladim pčelarima da unaprijede svoje vještine.</opis>
+    </pcelar>
+    <pcelar>
+        <slika>ana.jpg</slika>
+        <ime>Ana Horvat</ime>
+        <opis>Ana Horvat je mlada i entuzijastična pčelarka koja je svoju ljubav prema pčelarstvu naslijedila od djeda. Svojim inovativnim pristupom i korištenjem suvremenih tehnologija u praćenju zdravlja pčelinjih zajednica, Ana uspješno vodi više košnica na području Slavonije. Posebno je ponosna na proizvodnju lipovog meda i drugih pčelinjih proizvoda poput propolisa i matične mliječi. Osim pčelarenja, Ana educira lokalnu zajednicu o važnosti zaštite pčela i njihovoj ulozi u održavanju ekosustava.</opis>
+    </pcelar>
+    <pcelar>
+        <slika>marko.jpg</slika>
+        <ime>Marko Kovač</ime>
+        <opis>Marko Kovač je iskusni pčelar s preko 20 godina iskustva u tradicionalnoj pčelarskoj proizvodnji. Njegova strast prema pčelama i prirodi počela je u djetinjstvu, a danas vodi obiteljsku pčelarsku farmu smještenu u srcu netaknute prirode. Marko koristi prirodne metode uzgoja pčela i pridaje veliku važnost očuvanju bioraznolikosti. Njegov med poznat je po izvrsnoj kvaliteti i bogatom okusu, a uzgoj košnica obuhvaća i ekološki prihvatljive tehnike koje štite pčele od bolesti i pesticida.</opis>
+    </pcelar>
+</vozaci>
