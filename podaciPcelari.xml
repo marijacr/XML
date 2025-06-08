@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vozaci>
+<pcelari>
     <pcelar>
         <slika>ivan.jpg</slika>
         <ime>Ivan Novak</ime>
@@ -15,4 +15,4 @@
         <ime>Marko Kovač</ime>
         <opis>Marko Kovač je iskusni pčelar s preko 20 godina iskustva u tradicionalnoj pčelarskoj proizvodnji. Njegova strast prema pčelama i prirodi počela je u djetinjstvu, a danas vodi obiteljsku pčelarsku farmu smještenu u srcu netaknute prirode. Marko koristi prirodne metode uzgoja pčela i pridaje veliku važnost očuvanju bioraznolikosti. Njegov med poznat je po izvrsnoj kvaliteti i bogatom okusu, a uzgoj košnica obuhvaća i ekološki prihvatljive tehnike koje štite pčele od bolesti i pesticida.</opis>
     </pcelar>
-</vozaci>
+</pcelari>
